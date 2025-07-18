@@ -1,6 +1,6 @@
 {
   "origins": [
-
+    "http://localhost:4321",
     "https://miaorain.top"
   ]
   "defaultCommentOrder": "newest"

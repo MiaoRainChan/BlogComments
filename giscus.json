@@ -1,8 +1,7 @@
 {
   "origins": [
-    "http://localhost:4321",
+
     "https://miaorain.top"
   ]
-  "originsRegex": [],
   "defaultCommentOrder": "newest"
 }
